@@ -2,8 +2,11 @@
 
 The first analysis project of Udacity Data Scientist Nanodegree
 
+# Licensing, Authors, and Acknowledgements
+
+This dataset is part of Airbnb Inside, and the original source can be found here: https://www.kaggle.com/datasets/airbnb/seattle
+
 Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way. As part of the Airbnb Inside initiative, this dataset describes the listing activity of homestays in Seattle, WA.
-Content
 
 The following Airbnb activity is included in this Seattle dataset:
 
@@ -47,8 +50,7 @@ pip install -r requirements.txt
 
 Based on what I have found from the datasets, I can say that summer in Seattle is the busy time and it would cost more compared to other seasons. If I want to save money when I stay in the state, I can consider to rent a homestay in the top neighborhoods which have the lowest average price, otherwise in the top most expensive, it could give me more worthy values. Finally, business of Airbnb has been growing, it’s providing a solution for people to not waste their spare home.
 
-# Licensing, Authors, and Acknowledgements
-Data Source: https://www.kaggle.com/datasets/airbnb/seattle
+
 
 Link to my blog post:
 https://medium.com/@mia.nguyen.vu/a-lookseattle-airbnb-open-data-c052199cdd98
